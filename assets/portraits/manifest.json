@@ -1,0 +1,92 @@
+{
+  "portraits": {
+    "rogue": {
+      "w": 128,
+      "h": 128
+    },
+    "warrior": {
+      "w": 128,
+      "h": 128
+    },
+    "wizard": {
+      "w": 128,
+      "h": 128
+    },
+    "rhona": {
+      "w": 128,
+      "h": 128
+    },
+    "vesna": {
+      "w": 128,
+      "h": 128
+    },
+    "ancient": {
+      "w": 128,
+      "h": 128
+    },
+    "female-magi": {
+      "w": 128,
+      "h": 128
+    },
+    "female-warrior": {
+      "w": 128,
+      "h": 128
+    },
+    "female-rogue": {
+      "w": 128,
+      "h": 128
+    },
+    "axel": {
+      "w": 128,
+      "h": 128
+    },
+    "clint": {
+      "w": 128,
+      "h": 128
+    },
+    "aveline": {
+      "w": 128,
+      "h": 128
+    },
+    "osai": {
+      "w": 128,
+      "h": 128
+    },
+    "vale-female-rogue": {
+      "w": 128,
+      "h": 128
+    },
+    "vale-female-magi": {
+      "w": 128,
+      "h": 128
+    },
+    "vale-female-warrior": {
+      "w": 128,
+      "h": 128
+    },
+    "vale-male-magi": {
+      "w": 128,
+      "h": 128
+    },
+    "vale-male-warrior": {
+      "w": 128,
+      "h": 128
+    },
+    "vale-male-rogue": {
+      "w": 128,
+      "h": 128
+    },
+    "kingdom-soldier-a": {
+      "w": 128,
+      "h": 128
+    },
+    "seth": {
+      "w": 128,
+      "h": 128
+    },
+    "bandit-boss": {
+      "w": 128,
+      "h": 128
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "d6a92d55-34bc-43d2-b638-1da5c16a3175",
+        "name": "ordinary working man, flat cap, braces over a collarless shirt, sleeves rolled, plain honest face, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "ordinary working man, flat cap, braces over a collarless shirt, sleeves rolled, plain honest face, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T07:02:25.249011+00:00"
+      },
+      "folder": "ordinary_working_man_flat_cap_braces_over_a_collar",
+      "frames": {
+        "rotations": {
+          "south": "ordinary_working_man_flat_cap_braces_over_a_collar/rotations/south.png",
+          "south-east": "ordinary_working_man_flat_cap_braces_over_a_collar/rotations/south-east.png",
+          "east": "ordinary_working_man_flat_cap_braces_over_a_collar/rotations/east.png",
+          "north-east": "ordinary_working_man_flat_cap_braces_over_a_collar/rotations/north-east.png",
+          "north": "ordinary_working_man_flat_cap_braces_over_a_collar/rotations/north.png",
+          "north-west": "ordinary_working_man_flat_cap_braces_over_a_collar/rotations/north-west.png",
+          "west": "ordinary_working_man_flat_cap_braces_over_a_collar/rotations/west.png",
+          "south-west": "ordinary_working_man_flat_cap_braces_over_a_collar/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T07:03:28.345856"
+}

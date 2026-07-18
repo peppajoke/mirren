@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "2218f6f3-05ab-4856-bd54-1c00e1b7c5b6",
+        "name": "hulking bandit chief, broad shoulders, scarred bald head, heavy studded greatcoat, brass rings, cruel grin clearly visible, 1920s-30s dark-fantasy enforcer, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "hulking bandit chief, broad shoulders, scarred bald head, heavy studded greatcoat, brass rings, cruel grin clearly visible, 1920s-30s dark-fantasy enforcer, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 76,
+          "height": 76
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T06:22:19.489463+00:00"
+      },
+      "folder": "hulking_bandit_chief_broad_shoulders_scarred_bald",
+      "frames": {
+        "rotations": {
+          "south": "hulking_bandit_chief_broad_shoulders_scarred_bald/rotations/south.png",
+          "south-east": "hulking_bandit_chief_broad_shoulders_scarred_bald/rotations/south-east.png",
+          "east": "hulking_bandit_chief_broad_shoulders_scarred_bald/rotations/east.png",
+          "north-east": "hulking_bandit_chief_broad_shoulders_scarred_bald/rotations/north-east.png",
+          "north": "hulking_bandit_chief_broad_shoulders_scarred_bald/rotations/north.png",
+          "north-west": "hulking_bandit_chief_broad_shoulders_scarred_bald/rotations/north-west.png",
+          "west": "hulking_bandit_chief_broad_shoulders_scarred_bald/rotations/west.png",
+          "south-west": "hulking_bandit_chief_broad_shoulders_scarred_bald/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T06:23:37.897163"
+}

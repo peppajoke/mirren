@@ -1,0 +1,201 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "685c0ea4-a40c-4e5e-b547-cb91e589e31a",
+        "name": "female mystic drifter in a deep hooded robe, feminine silhouette, long hair spilling from the hood; the hood shades her brow but the face below is clearly visible: natural skin, mouth and chin readable, face PARTIALLY visible with natural skin tone, NOT hidden in black shadow, eyes with a faint gold glow, drifter coat over the robe, brass belt buckle, GBA-era 16-bit pixel art, dark outline, muted dusk palette, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "female mystic drifter in a deep hooded robe, feminine silhouette, long hair spilling from the hood; the hood shades her brow but the face below is clearly visible: natural skin, mouth and chin readable, face PARTIALLY visible with natural skin tone, NOT hidden in black shadow, eyes with a faint gold glow, drifter coat over the robe, brass belt buckle, GBA-era 16-bit pixel art, dark outline, muted dusk palette, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T04:46:21.308823+00:00"
+      },
+      "folder": "female_mystic_drifter_in_a_deep_hooded_robe_femini",
+      "frames": {
+        "rotations": {
+          "south": "female_mystic_drifter_in_a_deep_hooded_robe_femini/rotations/south.png",
+          "south-east": "female_mystic_drifter_in_a_deep_hooded_robe_femini/rotations/south-east.png",
+          "east": "female_mystic_drifter_in_a_deep_hooded_robe_femini/rotations/east.png",
+          "north-east": "female_mystic_drifter_in_a_deep_hooded_robe_femini/rotations/north-east.png",
+          "north": "female_mystic_drifter_in_a_deep_hooded_robe_femini/rotations/north.png",
+          "north-west": "female_mystic_drifter_in_a_deep_hooded_robe_femini/rotations/north-west.png",
+          "west": "female_mystic_drifter_in_a_deep_hooded_robe_femini/rotations/west.png",
+          "south-west": "female_mystic_drifter_in_a_deep_hooded_robe_femini/rotations/south-west.png"
+        },
+        "animations": {
+          "battle-stance": {
+            "north": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/north/frame_008.png"
+            ],
+            "west": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/west/frame_008.png"
+            ],
+            "south": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/south/frame_008.png"
+            ],
+            "east": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/battle-stance/east/frame_008.png"
+            ]
+          },
+          "attack": {
+            "west": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/west/frame_008.png"
+            ],
+            "east": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/east/frame_008.png"
+            ],
+            "south": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/south/frame_008.png"
+            ],
+            "north": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/attack/north/frame_008.png"
+            ]
+          },
+          "cast": {
+            "east": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/east/frame_008.png"
+            ],
+            "south": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/south/frame_008.png"
+            ],
+            "north": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/north/frame_008.png"
+            ],
+            "west": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_003.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_004.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_005.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_006.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_007.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/cast/west/frame_008.png"
+            ]
+          },
+          "walk": {
+            "north": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/north/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/north/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/north/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/north/frame_003.png"
+            ],
+            "south": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/south/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/south/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/south/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/south/frame_003.png"
+            ],
+            "east": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/east/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/east/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/east/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/east/frame_003.png"
+            ],
+            "west": [
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/west/frame_000.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/west/frame_001.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/west/frame_002.png",
+              "female_mystic_drifter_in_a_deep_hooded_robe_femini/animations/walk/west/frame_003.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T06:50:57.622270"
+}

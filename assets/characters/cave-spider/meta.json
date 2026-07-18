@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "d3c7b248-ffd6-49b2-bcaa-bce522621b60",
+        "name": "giant pale cave spider, bulbous crystal-flecked abdomen glinting faint violet, many bead-black eyes, spindly legs, quiet menace, GBA-era 16-bit pixel art, dark outline, muted dusk palette, grim dark fantasy",
+        "prompt": "giant pale cave spider, bulbous crystal-flecked abdomen glinting faint violet, many bead-black eyes, spindly legs, quiet menace, GBA-era 16-bit pixel art, dark outline, muted dusk palette, grim dark fantasy",
+        "size": {
+          "width": 100,
+          "height": 100
+        },
+        "template_id": "cat",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T06:22:13.625713+00:00"
+      },
+      "folder": "giant_pale_cave_spider_bulbous_crystal-flecked_abd",
+      "frames": {
+        "rotations": {
+          "south": "giant_pale_cave_spider_bulbous_crystal-flecked_abd/rotations/south.png",
+          "south-east": "giant_pale_cave_spider_bulbous_crystal-flecked_abd/rotations/south-east.png",
+          "east": "giant_pale_cave_spider_bulbous_crystal-flecked_abd/rotations/east.png",
+          "north-east": "giant_pale_cave_spider_bulbous_crystal-flecked_abd/rotations/north-east.png",
+          "north": "giant_pale_cave_spider_bulbous_crystal-flecked_abd/rotations/north.png",
+          "north-west": "giant_pale_cave_spider_bulbous_crystal-flecked_abd/rotations/north-west.png",
+          "west": "giant_pale_cave_spider_bulbous_crystal-flecked_abd/rotations/west.png",
+          "south-west": "giant_pale_cave_spider_bulbous_crystal-flecked_abd/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T06:24:18.496824"
+}

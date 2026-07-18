@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "114f03f2-c286-49b9-9bc5-f9c7c2100080",
+        "name": "mara v2",
+        "prompt": "a careworn mother in a plain shawl and long skirt, drawn anxious face, arms wrapped around herself, GBA-era 16-bit pixel art, dark single-color outline, muted ash palette, faded brass accents, colors drained toward grey, grim dark fantasy, 'Sacred Rust' aesthetic",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-17T21:09:59.380744+00:00"
+      },
+      "folder": "mara_v2",
+      "frames": {
+        "rotations": {
+          "south": "mara_v2/rotations/south.png",
+          "south-east": "mara_v2/rotations/south-east.png",
+          "east": "mara_v2/rotations/east.png",
+          "north-east": "mara_v2/rotations/north-east.png",
+          "north": "mara_v2/rotations/north.png",
+          "north-west": "mara_v2/rotations/north-west.png",
+          "west": "mara_v2/rotations/west.png",
+          "south-west": "mara_v2/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-17T21:14:03.178322"
+}

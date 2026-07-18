@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "d4de2895-124a-4ece-8dce-9cb71e181280",
+        "name": "gate-warden v2",
+        "prompt": "a weathered old gatekeeper man, worn pilgrim coat and a lantern, tired watchful eyes, scarf against fog, no weapon, empty hands, GBA-era 16-bit pixel art, dark single-color outline, muted ash palette, faded brass accents, colors drained toward grey, grim dark fantasy, 'Sacred Rust' aesthetic",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-17T21:09:58.393932+00:00"
+      },
+      "folder": "gate-warden_v2",
+      "frames": {
+        "rotations": {
+          "south": "gate-warden_v2/rotations/south.png",
+          "south-east": "gate-warden_v2/rotations/south-east.png",
+          "east": "gate-warden_v2/rotations/east.png",
+          "north-east": "gate-warden_v2/rotations/north-east.png",
+          "north": "gate-warden_v2/rotations/north.png",
+          "north-west": "gate-warden_v2/rotations/north-west.png",
+          "west": "gate-warden_v2/rotations/west.png",
+          "south-west": "gate-warden_v2/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-17T21:14:01.000143"
+}

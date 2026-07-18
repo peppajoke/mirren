@@ -1,0 +1,201 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "cdc1494a-0f1a-4d6b-a177-efb8de4621ea",
+        "name": "osai",
+        "prompt": "a cocky young Kingdom soldier man, standard-issue Kingdom armor with a holy sigil, ambitious smirk, short hair, eager and naive, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T02:03:17.290565+00:00"
+      },
+      "folder": "osai",
+      "frames": {
+        "rotations": {
+          "south": "osai/rotations/south.png",
+          "south-east": "osai/rotations/south-east.png",
+          "east": "osai/rotations/east.png",
+          "north-east": "osai/rotations/north-east.png",
+          "north": "osai/rotations/north.png",
+          "north-west": "osai/rotations/north-west.png",
+          "west": "osai/rotations/west.png",
+          "south-west": "osai/rotations/south-west.png"
+        },
+        "animations": {
+          "walk": {
+            "west": [
+              "osai/animations/walk/west/frame_000.png",
+              "osai/animations/walk/west/frame_001.png",
+              "osai/animations/walk/west/frame_002.png",
+              "osai/animations/walk/west/frame_003.png"
+            ],
+            "north": [
+              "osai/animations/walk/north/frame_000.png",
+              "osai/animations/walk/north/frame_001.png",
+              "osai/animations/walk/north/frame_002.png",
+              "osai/animations/walk/north/frame_003.png"
+            ],
+            "east": [
+              "osai/animations/walk/east/frame_000.png",
+              "osai/animations/walk/east/frame_001.png",
+              "osai/animations/walk/east/frame_002.png",
+              "osai/animations/walk/east/frame_003.png"
+            ],
+            "south": [
+              "osai/animations/walk/south/frame_000.png",
+              "osai/animations/walk/south/frame_001.png",
+              "osai/animations/walk/south/frame_002.png",
+              "osai/animations/walk/south/frame_003.png"
+            ]
+          },
+          "attack": {
+            "west": [
+              "osai/animations/attack/west/frame_000.png",
+              "osai/animations/attack/west/frame_001.png",
+              "osai/animations/attack/west/frame_002.png",
+              "osai/animations/attack/west/frame_003.png",
+              "osai/animations/attack/west/frame_004.png",
+              "osai/animations/attack/west/frame_005.png",
+              "osai/animations/attack/west/frame_006.png",
+              "osai/animations/attack/west/frame_007.png",
+              "osai/animations/attack/west/frame_008.png"
+            ],
+            "south": [
+              "osai/animations/attack/south/frame_000.png",
+              "osai/animations/attack/south/frame_001.png",
+              "osai/animations/attack/south/frame_002.png",
+              "osai/animations/attack/south/frame_003.png",
+              "osai/animations/attack/south/frame_004.png",
+              "osai/animations/attack/south/frame_005.png",
+              "osai/animations/attack/south/frame_006.png",
+              "osai/animations/attack/south/frame_007.png",
+              "osai/animations/attack/south/frame_008.png"
+            ],
+            "north": [
+              "osai/animations/attack/north/frame_000.png",
+              "osai/animations/attack/north/frame_001.png",
+              "osai/animations/attack/north/frame_002.png",
+              "osai/animations/attack/north/frame_003.png",
+              "osai/animations/attack/north/frame_004.png",
+              "osai/animations/attack/north/frame_005.png",
+              "osai/animations/attack/north/frame_006.png",
+              "osai/animations/attack/north/frame_007.png",
+              "osai/animations/attack/north/frame_008.png"
+            ],
+            "east": [
+              "osai/animations/attack/east/frame_000.png",
+              "osai/animations/attack/east/frame_001.png",
+              "osai/animations/attack/east/frame_002.png",
+              "osai/animations/attack/east/frame_003.png",
+              "osai/animations/attack/east/frame_004.png",
+              "osai/animations/attack/east/frame_005.png",
+              "osai/animations/attack/east/frame_006.png",
+              "osai/animations/attack/east/frame_007.png",
+              "osai/animations/attack/east/frame_008.png"
+            ]
+          },
+          "battle-stance": {
+            "north": [
+              "osai/animations/battle-stance/north/frame_000.png",
+              "osai/animations/battle-stance/north/frame_001.png",
+              "osai/animations/battle-stance/north/frame_002.png",
+              "osai/animations/battle-stance/north/frame_003.png",
+              "osai/animations/battle-stance/north/frame_004.png",
+              "osai/animations/battle-stance/north/frame_005.png",
+              "osai/animations/battle-stance/north/frame_006.png",
+              "osai/animations/battle-stance/north/frame_007.png",
+              "osai/animations/battle-stance/north/frame_008.png"
+            ],
+            "west": [
+              "osai/animations/battle-stance/west/frame_000.png",
+              "osai/animations/battle-stance/west/frame_001.png",
+              "osai/animations/battle-stance/west/frame_002.png",
+              "osai/animations/battle-stance/west/frame_003.png",
+              "osai/animations/battle-stance/west/frame_004.png",
+              "osai/animations/battle-stance/west/frame_005.png",
+              "osai/animations/battle-stance/west/frame_006.png",
+              "osai/animations/battle-stance/west/frame_007.png",
+              "osai/animations/battle-stance/west/frame_008.png"
+            ],
+            "east": [
+              "osai/animations/battle-stance/east/frame_000.png",
+              "osai/animations/battle-stance/east/frame_001.png",
+              "osai/animations/battle-stance/east/frame_002.png",
+              "osai/animations/battle-stance/east/frame_003.png",
+              "osai/animations/battle-stance/east/frame_004.png",
+              "osai/animations/battle-stance/east/frame_005.png",
+              "osai/animations/battle-stance/east/frame_006.png",
+              "osai/animations/battle-stance/east/frame_007.png",
+              "osai/animations/battle-stance/east/frame_008.png"
+            ],
+            "south": [
+              "osai/animations/battle-stance/south/frame_000.png",
+              "osai/animations/battle-stance/south/frame_001.png",
+              "osai/animations/battle-stance/south/frame_002.png",
+              "osai/animations/battle-stance/south/frame_003.png",
+              "osai/animations/battle-stance/south/frame_004.png",
+              "osai/animations/battle-stance/south/frame_005.png",
+              "osai/animations/battle-stance/south/frame_006.png",
+              "osai/animations/battle-stance/south/frame_007.png",
+              "osai/animations/battle-stance/south/frame_008.png"
+            ]
+          },
+          "cast": {
+            "south": [
+              "osai/animations/cast/south/frame_000.png",
+              "osai/animations/cast/south/frame_001.png",
+              "osai/animations/cast/south/frame_002.png",
+              "osai/animations/cast/south/frame_003.png",
+              "osai/animations/cast/south/frame_004.png",
+              "osai/animations/cast/south/frame_005.png",
+              "osai/animations/cast/south/frame_006.png",
+              "osai/animations/cast/south/frame_007.png",
+              "osai/animations/cast/south/frame_008.png"
+            ],
+            "north": [
+              "osai/animations/cast/north/frame_000.png",
+              "osai/animations/cast/north/frame_001.png",
+              "osai/animations/cast/north/frame_002.png",
+              "osai/animations/cast/north/frame_003.png",
+              "osai/animations/cast/north/frame_004.png",
+              "osai/animations/cast/north/frame_005.png",
+              "osai/animations/cast/north/frame_006.png",
+              "osai/animations/cast/north/frame_007.png",
+              "osai/animations/cast/north/frame_008.png"
+            ],
+            "west": [
+              "osai/animations/cast/west/frame_000.png",
+              "osai/animations/cast/west/frame_001.png",
+              "osai/animations/cast/west/frame_002.png",
+              "osai/animations/cast/west/frame_003.png",
+              "osai/animations/cast/west/frame_004.png",
+              "osai/animations/cast/west/frame_005.png",
+              "osai/animations/cast/west/frame_006.png",
+              "osai/animations/cast/west/frame_007.png",
+              "osai/animations/cast/west/frame_008.png"
+            ],
+            "east": [
+              "osai/animations/cast/east/frame_000.png",
+              "osai/animations/cast/east/frame_001.png",
+              "osai/animations/cast/east/frame_002.png",
+              "osai/animations/cast/east/frame_003.png",
+              "osai/animations/cast/east/frame_004.png",
+              "osai/animations/cast/east/frame_005.png",
+              "osai/animations/cast/east/frame_006.png",
+              "osai/animations/cast/east/frame_007.png",
+              "osai/animations/cast/east/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T04:27:35.073155"
+}

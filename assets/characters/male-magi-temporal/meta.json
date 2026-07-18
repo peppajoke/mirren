@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "98c0d87f-d445-4594-9a8c-001050a3075f",
+        "name": "male-magi-temporal",
+        "prompt": "young man, face and hair fully visible, NO hood over the face, with GLOWING BRIGHT YELLOW-GOLD EYES that shine like two small lights (exactly like the hooded base magi's glowing eyes), eerie luminous glowing golden eyes, a temporal mage in deep blue robes with faint clockwork and hourglass motifs, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T00:05:34.599128+00:00"
+      },
+      "folder": "male-magi-temporal",
+      "frames": {
+        "rotations": {
+          "south": "male-magi-temporal/rotations/south.png",
+          "south-east": "male-magi-temporal/rotations/south-east.png",
+          "east": "male-magi-temporal/rotations/east.png",
+          "north-east": "male-magi-temporal/rotations/north-east.png",
+          "north": "male-magi-temporal/rotations/north.png",
+          "north-west": "male-magi-temporal/rotations/north-west.png",
+          "west": "male-magi-temporal/rotations/west.png",
+          "south-west": "male-magi-temporal/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T00:12:25.407226"
+}

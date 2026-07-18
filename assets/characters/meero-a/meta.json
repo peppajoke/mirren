@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "1271a1cd-5a06-4366-aae3-af9d9d4005e1",
+        "name": "abstract cosmic god-being, POWERFUL YET GRIEVING: a towering column of folded starlight and slow-turning rings, no face \u2014 only a bowed radiant geometry like a head lowered in mourning, trailing threads of unmade light, vast quiet sorrow, GBA-era 16-bit pixel art, dark outline, muted dusk palette with pale gold and void-violet, grim dark fantasy",
+        "prompt": "abstract cosmic god-being, POWERFUL YET GRIEVING: a towering column of folded starlight and slow-turning rings, no face \u2014 only a bowed radiant geometry like a head lowered in mourning, trailing threads of unmade light, vast quiet sorrow, GBA-era 16-bit pixel art, dark outline, muted dusk palette with pale gold and void-violet, grim dark fantasy",
+        "size": {
+          "width": 112,
+          "height": 112
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T07:21:16.872105+00:00"
+      },
+      "folder": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a",
+      "frames": {
+        "rotations": {
+          "south": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a/rotations/south.png",
+          "south-east": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a/rotations/south-east.png",
+          "east": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a/rotations/east.png",
+          "north-east": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a/rotations/north-east.png",
+          "north": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a/rotations/north.png",
+          "north-west": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a/rotations/north-west.png",
+          "west": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a/rotations/west.png",
+          "south-west": "abstract_cosmic_god-being_POWERFUL_YET_GRIEVING_a/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T07:22:52.270290"
+}

@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "8ee50ea2-4118-4f4c-bc1b-13e9047dbdc9",
+        "name": "male-warrior-soldier",
+        "prompt": "young man, face and hair fully visible, NO hood over the face, with GLOWING BRIGHT YELLOW-GOLD EYES that shine like two small lights (exactly like the hooded base magi's glowing eyes), eerie luminous glowing golden eyes, a rank soldier in battered field armor, steady, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T00:09:27.690336+00:00"
+      },
+      "folder": "male-warrior-soldier",
+      "frames": {
+        "rotations": {
+          "south": "male-warrior-soldier/rotations/south.png",
+          "south-east": "male-warrior-soldier/rotations/south-east.png",
+          "east": "male-warrior-soldier/rotations/east.png",
+          "north-east": "male-warrior-soldier/rotations/north-east.png",
+          "north": "male-warrior-soldier/rotations/north.png",
+          "north-west": "male-warrior-soldier/rotations/north-west.png",
+          "west": "male-warrior-soldier/rotations/west.png",
+          "south-west": "male-warrior-soldier/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T00:12:31.952659"
+}

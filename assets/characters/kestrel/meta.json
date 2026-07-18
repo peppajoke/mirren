@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "9d934e8b-8b89-466b-8757-1400f2fa643e",
+        "name": "Kestrel",
+        "prompt": "a lithe masked shadow-rogue woman, dark wrapped cloth clothing, a face mask and hood, lean and coiled, muted greys, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-17T19:02:41.609876+00:00"
+      },
+      "folder": "Kestrel",
+      "frames": {
+        "rotations": {
+          "south": "Kestrel/rotations/south.png",
+          "south-east": "Kestrel/rotations/south-east.png",
+          "east": "Kestrel/rotations/east.png",
+          "north-east": "Kestrel/rotations/north-east.png",
+          "north": "Kestrel/rotations/north.png",
+          "north-west": "Kestrel/rotations/north-west.png",
+          "west": "Kestrel/rotations/west.png",
+          "south-west": "Kestrel/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-17T19:03:49.198845"
+}

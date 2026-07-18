@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "aba1914d-49da-4920-aaad-77af4c1f040e",
+        "name": "weary middle-aged provisioner shopkeeper, canvas apron over a work shirt with rolled sleeves, pencil behind the ear, resigned practical face, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "weary middle-aged provisioner shopkeeper, canvas apron over a work shirt with rolled sleeves, pencil behind the ear, resigned practical face, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T09:08:33.441292+00:00"
+      },
+      "folder": "weary_middle-aged_provisioner_shopkeeper_canvas_ap",
+      "frames": {
+        "rotations": {
+          "south": "weary_middle-aged_provisioner_shopkeeper_canvas_ap/rotations/south.png",
+          "south-east": "weary_middle-aged_provisioner_shopkeeper_canvas_ap/rotations/south-east.png",
+          "east": "weary_middle-aged_provisioner_shopkeeper_canvas_ap/rotations/east.png",
+          "north-east": "weary_middle-aged_provisioner_shopkeeper_canvas_ap/rotations/north-east.png",
+          "north": "weary_middle-aged_provisioner_shopkeeper_canvas_ap/rotations/north.png",
+          "north-west": "weary_middle-aged_provisioner_shopkeeper_canvas_ap/rotations/north-west.png",
+          "west": "weary_middle-aged_provisioner_shopkeeper_canvas_ap/rotations/west.png",
+          "south-west": "weary_middle-aged_provisioner_shopkeeper_canvas_ap/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T09:10:07.435668"
+}

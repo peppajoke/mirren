@@ -1,0 +1,105 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "e7e7c469-a06f-401e-aae0-f4b43268ec8d",
+        "name": "female-rogue v2",
+        "prompt": "a hooded rogue, hood up and a ninja-style black cloth mask covering the lower face, face OBSCURED, hair hidden under the hood, only the eyes and a thin strip of NORMAL SKIN-TONE face visible, dark fitted feminine leathers over a slender feminine figure, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T01:18:38.694596+00:00"
+      },
+      "folder": "female-rogue_v2",
+      "frames": {
+        "rotations": {
+          "south": "female-rogue_v2/rotations/south.png",
+          "south-east": "female-rogue_v2/rotations/south-east.png",
+          "east": "female-rogue_v2/rotations/east.png",
+          "north-east": "female-rogue_v2/rotations/north-east.png",
+          "north": "female-rogue_v2/rotations/north.png",
+          "north-west": "female-rogue_v2/rotations/north-west.png",
+          "west": "female-rogue_v2/rotations/west.png",
+          "south-west": "female-rogue_v2/rotations/south-west.png"
+        },
+        "animations": {
+          "battle-stance": {
+            "south-east": [
+              "female-rogue_v2/animations/battle-stance/south-east/frame_000.png",
+              "female-rogue_v2/animations/battle-stance/south-east/frame_001.png",
+              "female-rogue_v2/animations/battle-stance/south-east/frame_002.png",
+              "female-rogue_v2/animations/battle-stance/south-east/frame_003.png",
+              "female-rogue_v2/animations/battle-stance/south-east/frame_004.png",
+              "female-rogue_v2/animations/battle-stance/south-east/frame_005.png",
+              "female-rogue_v2/animations/battle-stance/south-east/frame_006.png"
+            ],
+            "south-west": [
+              "female-rogue_v2/animations/battle-stance/south-west/frame_000.png",
+              "female-rogue_v2/animations/battle-stance/south-west/frame_001.png",
+              "female-rogue_v2/animations/battle-stance/south-west/frame_002.png",
+              "female-rogue_v2/animations/battle-stance/south-west/frame_003.png",
+              "female-rogue_v2/animations/battle-stance/south-west/frame_004.png",
+              "female-rogue_v2/animations/battle-stance/south-west/frame_005.png",
+              "female-rogue_v2/animations/battle-stance/south-west/frame_006.png"
+            ]
+          },
+          "attack": {
+            "south-east": [
+              "female-rogue_v2/animations/attack/south-east/frame_000.png",
+              "female-rogue_v2/animations/attack/south-east/frame_001.png",
+              "female-rogue_v2/animations/attack/south-east/frame_002.png",
+              "female-rogue_v2/animations/attack/south-east/frame_003.png",
+              "female-rogue_v2/animations/attack/south-east/frame_004.png",
+              "female-rogue_v2/animations/attack/south-east/frame_005.png",
+              "female-rogue_v2/animations/attack/south-east/frame_006.png"
+            ]
+          },
+          "walk": {
+            "north": [
+              "female-rogue_v2/animations/walk/north/frame_000.png",
+              "female-rogue_v2/animations/walk/north/frame_001.png",
+              "female-rogue_v2/animations/walk/north/frame_002.png",
+              "female-rogue_v2/animations/walk/north/frame_003.png"
+            ],
+            "east": [
+              "female-rogue_v2/animations/walk/east/frame_000.png",
+              "female-rogue_v2/animations/walk/east/frame_001.png",
+              "female-rogue_v2/animations/walk/east/frame_002.png",
+              "female-rogue_v2/animations/walk/east/frame_003.png"
+            ],
+            "south": [
+              "female-rogue_v2/animations/walk/south/frame_000.png",
+              "female-rogue_v2/animations/walk/south/frame_001.png",
+              "female-rogue_v2/animations/walk/south/frame_002.png",
+              "female-rogue_v2/animations/walk/south/frame_003.png"
+            ],
+            "west": [
+              "female-rogue_v2/animations/walk/west/frame_000.png",
+              "female-rogue_v2/animations/walk/west/frame_001.png",
+              "female-rogue_v2/animations/walk/west/frame_002.png",
+              "female-rogue_v2/animations/walk/west/frame_003.png"
+            ]
+          },
+          "cast": {
+            "south-west": [
+              "female-rogue_v2/animations/cast/south-west/frame_000.png",
+              "female-rogue_v2/animations/cast/south-west/frame_001.png",
+              "female-rogue_v2/animations/cast/south-west/frame_002.png",
+              "female-rogue_v2/animations/cast/south-west/frame_003.png",
+              "female-rogue_v2/animations/cast/south-west/frame_004.png",
+              "female-rogue_v2/animations/cast/south-west/frame_005.png",
+              "female-rogue_v2/animations/cast/south-west/frame_006.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T02:33:30.038981"
+}

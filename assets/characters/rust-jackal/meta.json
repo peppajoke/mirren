@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "995f59bf-813c-4bec-a122-e3495160c3ad",
+        "name": "rust-jackal",
+        "prompt": "a lean scavenger jackal, rust-orange mangy fur, scrap-metal plates grown into its hide, brass wire tangled in fur, snarling, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy",
+        "size": {
+          "width": 88,
+          "height": 88
+        },
+        "template_id": "dog",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-17T18:26:15.077701+00:00"
+      },
+      "folder": "rust-jackal",
+      "frames": {
+        "rotations": {
+          "south": "rust-jackal/rotations/south.png",
+          "south-east": "rust-jackal/rotations/south-east.png",
+          "east": "rust-jackal/rotations/east.png",
+          "north-east": "rust-jackal/rotations/north-east.png",
+          "north": "rust-jackal/rotations/north.png",
+          "north-west": "rust-jackal/rotations/north-west.png",
+          "west": "rust-jackal/rotations/west.png",
+          "south-west": "rust-jackal/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-17T18:32:41.670017"
+}

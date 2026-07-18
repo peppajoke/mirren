@@ -1,0 +1,201 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "c0c339f5-b098-42a3-a6dc-5a9544da61e4",
+        "name": "handsome man with black hair falling over his brow, sharp-jawed face clearly visible, fitted dark leathers with an open collar, thief's belts, sly confident bearing, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "handsome man with black hair falling over his brow, sharp-jawed face clearly visible, fitted dark leathers with an open collar, thief's belts, sly confident bearing, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T06:29:54.973201+00:00"
+      },
+      "folder": "handsome_man_with_black_hair_falling_over_his_brow",
+      "frames": {
+        "rotations": {
+          "south": "handsome_man_with_black_hair_falling_over_his_brow/rotations/south.png",
+          "south-east": "handsome_man_with_black_hair_falling_over_his_brow/rotations/south-east.png",
+          "east": "handsome_man_with_black_hair_falling_over_his_brow/rotations/east.png",
+          "north-east": "handsome_man_with_black_hair_falling_over_his_brow/rotations/north-east.png",
+          "north": "handsome_man_with_black_hair_falling_over_his_brow/rotations/north.png",
+          "north-west": "handsome_man_with_black_hair_falling_over_his_brow/rotations/north-west.png",
+          "west": "handsome_man_with_black_hair_falling_over_his_brow/rotations/west.png",
+          "south-west": "handsome_man_with_black_hair_falling_over_his_brow/rotations/south-west.png"
+        },
+        "animations": {
+          "battle-stance": {
+            "east": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/east/frame_008.png"
+            ],
+            "north": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/north/frame_008.png"
+            ],
+            "west": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/west/frame_008.png"
+            ],
+            "south": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/battle-stance/south/frame_008.png"
+            ]
+          },
+          "attack": {
+            "east": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/east/frame_008.png"
+            ],
+            "north": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/north/frame_008.png"
+            ],
+            "west": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/west/frame_008.png"
+            ],
+            "south": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/attack/south/frame_008.png"
+            ]
+          },
+          "walk": {
+            "west": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/west/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/west/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/west/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/west/frame_003.png"
+            ],
+            "south": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/south/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/south/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/south/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/south/frame_003.png"
+            ],
+            "east": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/east/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/east/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/east/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/east/frame_003.png"
+            ],
+            "north": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/north/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/north/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/north/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/walk/north/frame_003.png"
+            ]
+          },
+          "cast": {
+            "south": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/south/frame_008.png"
+            ],
+            "north": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/north/frame_008.png"
+            ],
+            "west": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/west/frame_008.png"
+            ],
+            "east": [
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_000.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_001.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_002.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_003.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_004.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_005.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_006.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_007.png",
+              "handsome_man_with_black_hair_falling_over_his_brow/animations/cast/east/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T07:38:21.281324"
+}

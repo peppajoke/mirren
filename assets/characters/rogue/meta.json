@@ -1,0 +1,136 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "a54b896d-85ee-4204-8e0f-30f0ae92661f",
+        "name": "male rogue base v4",
+        "prompt": "a lean hooded rogue in dark leathers, a ninja-style black cloth mask covering the lower half of the face, the visible upper face has NORMAL HUMAN SKIN TONE (natural fair skin, NOT yellow, NOT gold), two subtly glowing yellow eyes above the mask, hood up, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T01:03:50.379483+00:00"
+      },
+      "folder": "male_rogue_base_v4",
+      "frames": {
+        "rotations": {
+          "south": "male_rogue_base_v4/rotations/south.png",
+          "south-east": "male_rogue_base_v4/rotations/south-east.png",
+          "east": "male_rogue_base_v4/rotations/east.png",
+          "north-east": "male_rogue_base_v4/rotations/north-east.png",
+          "north": "male_rogue_base_v4/rotations/north.png",
+          "north-west": "male_rogue_base_v4/rotations/north-west.png",
+          "west": "male_rogue_base_v4/rotations/west.png",
+          "south-west": "male_rogue_base_v4/rotations/south-west.png"
+        },
+        "animations": {
+          "battle-stance": {
+            "south-west": [
+              "male_rogue_base_v4/animations/battle-stance/south-west/frame_000.png",
+              "male_rogue_base_v4/animations/battle-stance/south-west/frame_001.png",
+              "male_rogue_base_v4/animations/battle-stance/south-west/frame_002.png",
+              "male_rogue_base_v4/animations/battle-stance/south-west/frame_003.png",
+              "male_rogue_base_v4/animations/battle-stance/south-west/frame_004.png",
+              "male_rogue_base_v4/animations/battle-stance/south-west/frame_005.png",
+              "male_rogue_base_v4/animations/battle-stance/south-west/frame_006.png"
+            ],
+            "south-east": [
+              "male_rogue_base_v4/animations/battle-stance/south-east/frame_000.png",
+              "male_rogue_base_v4/animations/battle-stance/south-east/frame_001.png",
+              "male_rogue_base_v4/animations/battle-stance/south-east/frame_002.png",
+              "male_rogue_base_v4/animations/battle-stance/south-east/frame_003.png",
+              "male_rogue_base_v4/animations/battle-stance/south-east/frame_004.png",
+              "male_rogue_base_v4/animations/battle-stance/south-east/frame_005.png",
+              "male_rogue_base_v4/animations/battle-stance/south-east/frame_006.png"
+            ]
+          },
+          "walk": {
+            "east": [
+              "male_rogue_base_v4/animations/walk/east/frame_000.png",
+              "male_rogue_base_v4/animations/walk/east/frame_001.png",
+              "male_rogue_base_v4/animations/walk/east/frame_002.png",
+              "male_rogue_base_v4/animations/walk/east/frame_003.png"
+            ],
+            "south": [
+              "male_rogue_base_v4/animations/walk/south/frame_000.png",
+              "male_rogue_base_v4/animations/walk/south/frame_001.png",
+              "male_rogue_base_v4/animations/walk/south/frame_002.png",
+              "male_rogue_base_v4/animations/walk/south/frame_003.png"
+            ],
+            "west": [
+              "male_rogue_base_v4/animations/walk/west/frame_000.png",
+              "male_rogue_base_v4/animations/walk/west/frame_001.png",
+              "male_rogue_base_v4/animations/walk/west/frame_002.png",
+              "male_rogue_base_v4/animations/walk/west/frame_003.png"
+            ],
+            "north": [
+              "male_rogue_base_v4/animations/walk/north/frame_000.png",
+              "male_rogue_base_v4/animations/walk/north/frame_001.png",
+              "male_rogue_base_v4/animations/walk/north/frame_002.png",
+              "male_rogue_base_v4/animations/walk/north/frame_003.png"
+            ]
+          },
+          "cast": {
+            "south-west": [
+              "male_rogue_base_v4/animations/cast/south-west/frame_000.png",
+              "male_rogue_base_v4/animations/cast/south-west/frame_001.png",
+              "male_rogue_base_v4/animations/cast/south-west/frame_002.png",
+              "male_rogue_base_v4/animations/cast/south-west/frame_003.png",
+              "male_rogue_base_v4/animations/cast/south-west/frame_004.png",
+              "male_rogue_base_v4/animations/cast/south-west/frame_005.png",
+              "male_rogue_base_v4/animations/cast/south-west/frame_006.png"
+            ],
+            "south-east": [
+              "male_rogue_base_v4/animations/cast/south-east/frame_000.png",
+              "male_rogue_base_v4/animations/cast/south-east/frame_001.png",
+              "male_rogue_base_v4/animations/cast/south-east/frame_002.png",
+              "male_rogue_base_v4/animations/cast/south-east/frame_003.png",
+              "male_rogue_base_v4/animations/cast/south-east/frame_004.png",
+              "male_rogue_base_v4/animations/cast/south-east/frame_005.png",
+              "male_rogue_base_v4/animations/cast/south-east/frame_006.png"
+            ]
+          },
+          "cast-bd00807d": {
+            "south-west": [
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_000.png",
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_001.png",
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_002.png",
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_003.png",
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_004.png",
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_005.png",
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_006.png",
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_007.png",
+              "male_rogue_base_v4/animations/cast-bd00807d/south-west/frame_008.png"
+            ]
+          },
+          "attack": {
+            "south-west": [
+              "male_rogue_base_v4/animations/attack/south-west/frame_000.png",
+              "male_rogue_base_v4/animations/attack/south-west/frame_001.png",
+              "male_rogue_base_v4/animations/attack/south-west/frame_002.png",
+              "male_rogue_base_v4/animations/attack/south-west/frame_003.png",
+              "male_rogue_base_v4/animations/attack/south-west/frame_004.png",
+              "male_rogue_base_v4/animations/attack/south-west/frame_005.png",
+              "male_rogue_base_v4/animations/attack/south-west/frame_006.png"
+            ],
+            "south-east": [
+              "male_rogue_base_v4/animations/attack/south-east/frame_000.png",
+              "male_rogue_base_v4/animations/attack/south-east/frame_001.png",
+              "male_rogue_base_v4/animations/attack/south-east/frame_002.png",
+              "male_rogue_base_v4/animations/attack/south-east/frame_003.png",
+              "male_rogue_base_v4/animations/attack/south-east/frame_004.png",
+              "male_rogue_base_v4/animations/attack/south-east/frame_005.png",
+              "male_rogue_base_v4/animations/attack/south-east/frame_006.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T02:28:08.020694"
+}

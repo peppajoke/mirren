@@ -1,0 +1,201 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "3ab60a3f-ce7c-4ec6-83a4-98bb3531c7c7",
+        "name": "aveline",
+        "prompt": "a disciplined WOMAN knight-captain, feminine physique, polished Kingdom plate armor with a brass-trimmed tabard, stern commanding face, hair tied back, a true-believer officer, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T01:58:28.534315+00:00"
+      },
+      "folder": "aveline",
+      "frames": {
+        "rotations": {
+          "south": "aveline/rotations/south.png",
+          "south-east": "aveline/rotations/south-east.png",
+          "east": "aveline/rotations/east.png",
+          "north-east": "aveline/rotations/north-east.png",
+          "north": "aveline/rotations/north.png",
+          "north-west": "aveline/rotations/north-west.png",
+          "west": "aveline/rotations/west.png",
+          "south-west": "aveline/rotations/south-west.png"
+        },
+        "animations": {
+          "battle-stance": {
+            "east": [
+              "aveline/animations/battle-stance/east/frame_000.png",
+              "aveline/animations/battle-stance/east/frame_001.png",
+              "aveline/animations/battle-stance/east/frame_002.png",
+              "aveline/animations/battle-stance/east/frame_003.png",
+              "aveline/animations/battle-stance/east/frame_004.png",
+              "aveline/animations/battle-stance/east/frame_005.png",
+              "aveline/animations/battle-stance/east/frame_006.png",
+              "aveline/animations/battle-stance/east/frame_007.png",
+              "aveline/animations/battle-stance/east/frame_008.png"
+            ],
+            "north": [
+              "aveline/animations/battle-stance/north/frame_000.png",
+              "aveline/animations/battle-stance/north/frame_001.png",
+              "aveline/animations/battle-stance/north/frame_002.png",
+              "aveline/animations/battle-stance/north/frame_003.png",
+              "aveline/animations/battle-stance/north/frame_004.png",
+              "aveline/animations/battle-stance/north/frame_005.png",
+              "aveline/animations/battle-stance/north/frame_006.png",
+              "aveline/animations/battle-stance/north/frame_007.png",
+              "aveline/animations/battle-stance/north/frame_008.png"
+            ],
+            "south": [
+              "aveline/animations/battle-stance/south/frame_000.png",
+              "aveline/animations/battle-stance/south/frame_001.png",
+              "aveline/animations/battle-stance/south/frame_002.png",
+              "aveline/animations/battle-stance/south/frame_003.png",
+              "aveline/animations/battle-stance/south/frame_004.png",
+              "aveline/animations/battle-stance/south/frame_005.png",
+              "aveline/animations/battle-stance/south/frame_006.png",
+              "aveline/animations/battle-stance/south/frame_007.png",
+              "aveline/animations/battle-stance/south/frame_008.png"
+            ],
+            "west": [
+              "aveline/animations/battle-stance/west/frame_000.png",
+              "aveline/animations/battle-stance/west/frame_001.png",
+              "aveline/animations/battle-stance/west/frame_002.png",
+              "aveline/animations/battle-stance/west/frame_003.png",
+              "aveline/animations/battle-stance/west/frame_004.png",
+              "aveline/animations/battle-stance/west/frame_005.png",
+              "aveline/animations/battle-stance/west/frame_006.png",
+              "aveline/animations/battle-stance/west/frame_007.png",
+              "aveline/animations/battle-stance/west/frame_008.png"
+            ]
+          },
+          "attack": {
+            "south": [
+              "aveline/animations/attack/south/frame_000.png",
+              "aveline/animations/attack/south/frame_001.png",
+              "aveline/animations/attack/south/frame_002.png",
+              "aveline/animations/attack/south/frame_003.png",
+              "aveline/animations/attack/south/frame_004.png",
+              "aveline/animations/attack/south/frame_005.png",
+              "aveline/animations/attack/south/frame_006.png",
+              "aveline/animations/attack/south/frame_007.png",
+              "aveline/animations/attack/south/frame_008.png"
+            ],
+            "east": [
+              "aveline/animations/attack/east/frame_000.png",
+              "aveline/animations/attack/east/frame_001.png",
+              "aveline/animations/attack/east/frame_002.png",
+              "aveline/animations/attack/east/frame_003.png",
+              "aveline/animations/attack/east/frame_004.png",
+              "aveline/animations/attack/east/frame_005.png",
+              "aveline/animations/attack/east/frame_006.png",
+              "aveline/animations/attack/east/frame_007.png",
+              "aveline/animations/attack/east/frame_008.png"
+            ],
+            "north": [
+              "aveline/animations/attack/north/frame_000.png",
+              "aveline/animations/attack/north/frame_001.png",
+              "aveline/animations/attack/north/frame_002.png",
+              "aveline/animations/attack/north/frame_003.png",
+              "aveline/animations/attack/north/frame_004.png",
+              "aveline/animations/attack/north/frame_005.png",
+              "aveline/animations/attack/north/frame_006.png",
+              "aveline/animations/attack/north/frame_007.png",
+              "aveline/animations/attack/north/frame_008.png"
+            ],
+            "west": [
+              "aveline/animations/attack/west/frame_000.png",
+              "aveline/animations/attack/west/frame_001.png",
+              "aveline/animations/attack/west/frame_002.png",
+              "aveline/animations/attack/west/frame_003.png",
+              "aveline/animations/attack/west/frame_004.png",
+              "aveline/animations/attack/west/frame_005.png",
+              "aveline/animations/attack/west/frame_006.png",
+              "aveline/animations/attack/west/frame_007.png",
+              "aveline/animations/attack/west/frame_008.png"
+            ]
+          },
+          "walk": {
+            "south": [
+              "aveline/animations/walk/south/frame_000.png",
+              "aveline/animations/walk/south/frame_001.png",
+              "aveline/animations/walk/south/frame_002.png",
+              "aveline/animations/walk/south/frame_003.png"
+            ],
+            "north": [
+              "aveline/animations/walk/north/frame_000.png",
+              "aveline/animations/walk/north/frame_001.png",
+              "aveline/animations/walk/north/frame_002.png",
+              "aveline/animations/walk/north/frame_003.png"
+            ],
+            "east": [
+              "aveline/animations/walk/east/frame_000.png",
+              "aveline/animations/walk/east/frame_001.png",
+              "aveline/animations/walk/east/frame_002.png",
+              "aveline/animations/walk/east/frame_003.png"
+            ],
+            "west": [
+              "aveline/animations/walk/west/frame_000.png",
+              "aveline/animations/walk/west/frame_001.png",
+              "aveline/animations/walk/west/frame_002.png",
+              "aveline/animations/walk/west/frame_003.png"
+            ]
+          },
+          "cast": {
+            "south": [
+              "aveline/animations/cast/south/frame_000.png",
+              "aveline/animations/cast/south/frame_001.png",
+              "aveline/animations/cast/south/frame_002.png",
+              "aveline/animations/cast/south/frame_003.png",
+              "aveline/animations/cast/south/frame_004.png",
+              "aveline/animations/cast/south/frame_005.png",
+              "aveline/animations/cast/south/frame_006.png",
+              "aveline/animations/cast/south/frame_007.png",
+              "aveline/animations/cast/south/frame_008.png"
+            ],
+            "west": [
+              "aveline/animations/cast/west/frame_000.png",
+              "aveline/animations/cast/west/frame_001.png",
+              "aveline/animations/cast/west/frame_002.png",
+              "aveline/animations/cast/west/frame_003.png",
+              "aveline/animations/cast/west/frame_004.png",
+              "aveline/animations/cast/west/frame_005.png",
+              "aveline/animations/cast/west/frame_006.png",
+              "aveline/animations/cast/west/frame_007.png",
+              "aveline/animations/cast/west/frame_008.png"
+            ],
+            "east": [
+              "aveline/animations/cast/east/frame_000.png",
+              "aveline/animations/cast/east/frame_001.png",
+              "aveline/animations/cast/east/frame_002.png",
+              "aveline/animations/cast/east/frame_003.png",
+              "aveline/animations/cast/east/frame_004.png",
+              "aveline/animations/cast/east/frame_005.png",
+              "aveline/animations/cast/east/frame_006.png",
+              "aveline/animations/cast/east/frame_007.png",
+              "aveline/animations/cast/east/frame_008.png"
+            ],
+            "north": [
+              "aveline/animations/cast/north/frame_000.png",
+              "aveline/animations/cast/north/frame_001.png",
+              "aveline/animations/cast/north/frame_002.png",
+              "aveline/animations/cast/north/frame_003.png",
+              "aveline/animations/cast/north/frame_004.png",
+              "aveline/animations/cast/north/frame_005.png",
+              "aveline/animations/cast/north/frame_006.png",
+              "aveline/animations/cast/north/frame_007.png",
+              "aveline/animations/cast/north/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T04:01:39.561316"
+}

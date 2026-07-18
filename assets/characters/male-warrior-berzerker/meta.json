@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "d9e386c5-7cdf-4c89-8d79-fe4e67f09a48",
+        "name": "male-warrior-berzerker",
+        "prompt": "young man, face and hair fully visible, EYES ARE BRIGHT GLOWING YELLOW-GOLD like two tiny glowing yellow lamps, luminous yellow eyes, the eyes are NOT blue, NOT brown, NOT green \u2014 ONLY bright glowing yellow-gold, eerie, a hulking berserker in scarred heavy armor, fierce and wild, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T00:15:34.529919+00:00"
+      },
+      "folder": "male-warrior-berzerker",
+      "frames": {
+        "rotations": {
+          "south": "male-warrior-berzerker/rotations/south.png",
+          "south-east": "male-warrior-berzerker/rotations/south-east.png",
+          "east": "male-warrior-berzerker/rotations/east.png",
+          "north-east": "male-warrior-berzerker/rotations/north-east.png",
+          "north": "male-warrior-berzerker/rotations/north.png",
+          "north-west": "male-warrior-berzerker/rotations/north-west.png",
+          "west": "male-warrior-berzerker/rotations/west.png",
+          "south-west": "male-warrior-berzerker/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T00:17:09.267032"
+}

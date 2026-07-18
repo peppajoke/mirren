@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "c80f8f51-0b76-4533-8f5a-3ea2a6393ad5",
+        "name": "male-rogue-gunslinger",
+        "prompt": "young man, face and hair fully visible, EYES ARE BRIGHT GLOWING YELLOW-GOLD like two tiny glowing yellow lamps, luminous yellow eyes, the eyes are NOT blue, NOT brown, NOT green \u2014 ONLY bright glowing yellow-gold, eerie, a gunslinger in a long weathered duster coat with a bandolier belt, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T00:14:33.284196+00:00"
+      },
+      "folder": "male-rogue-gunslinger",
+      "frames": {
+        "rotations": {
+          "south": "male-rogue-gunslinger/rotations/south.png",
+          "south-east": "male-rogue-gunslinger/rotations/south-east.png",
+          "east": "male-rogue-gunslinger/rotations/east.png",
+          "north-east": "male-rogue-gunslinger/rotations/north-east.png",
+          "north": "male-rogue-gunslinger/rotations/north.png",
+          "north-west": "male-rogue-gunslinger/rotations/north-west.png",
+          "west": "male-rogue-gunslinger/rotations/west.png",
+          "south-west": "male-rogue-gunslinger/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T00:17:08.484038"
+}

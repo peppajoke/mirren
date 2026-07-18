@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "63d012b9-ee59-49fd-b666-ea3fd60f062b",
+        "name": "cosmic abstract god of a dying experiment: a slow vortex of ash-grey and gold light collapsing inward, fragments of shattered halos orbiting, the silhouette of vast shoulders slumped with grief, radiating restrained apocalyptic power, GBA-era 16-bit pixel art, dark outline, muted dusk palette, grim dark fantasy",
+        "prompt": "cosmic abstract god of a dying experiment: a slow vortex of ash-grey and gold light collapsing inward, fragments of shattered halos orbiting, the silhouette of vast shoulders slumped with grief, radiating restrained apocalyptic power, GBA-era 16-bit pixel art, dark outline, muted dusk palette, grim dark fantasy",
+        "size": {
+          "width": 112,
+          "height": 112
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T07:21:47.791564+00:00"
+      },
+      "folder": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v",
+      "frames": {
+        "rotations": {
+          "south": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v/rotations/south.png",
+          "south-east": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v/rotations/south-east.png",
+          "east": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v/rotations/east.png",
+          "north-east": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v/rotations/north-east.png",
+          "north": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v/rotations/north.png",
+          "north-west": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v/rotations/north-west.png",
+          "west": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v/rotations/west.png",
+          "south-west": "cosmic_abstract_god_of_a_dying_experiment_a_slow_v/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T07:23:37.524000"
+}

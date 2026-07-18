@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "51799854-103b-47c9-91ea-58fa9168c95f",
+        "name": "male-warrior-captain",
+        "prompt": "young man, face and hair fully visible, NO hood over the face, with GLOWING BRIGHT YELLOW-GOLD EYES that shine like two small lights (exactly like the hooded base magi's glowing eyes), eerie luminous glowing golden eyes, an armored captain in worn brass-trimmed plate with a cloak, disciplined, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T00:09:02.891729+00:00"
+      },
+      "folder": "male-warrior-captain",
+      "frames": {
+        "rotations": {
+          "south": "male-warrior-captain/rotations/south.png",
+          "south-east": "male-warrior-captain/rotations/south-east.png",
+          "east": "male-warrior-captain/rotations/east.png",
+          "north-east": "male-warrior-captain/rotations/north-east.png",
+          "north": "male-warrior-captain/rotations/north.png",
+          "north-west": "male-warrior-captain/rotations/north-west.png",
+          "west": "male-warrior-captain/rotations/west.png",
+          "south-west": "male-warrior-captain/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T00:12:30.094969"
+}

@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "0fa6e62c-39a5-4b5e-9a83-8bac2787de4d",
+        "name": "Rhona v3",
+        "prompt": "a young cute pretty hot red-haired girl, long fiery red hair, round eyeglasses with clear lenses, a fitted tank top with suspenders over short shorts, slim slender curvy feminine figure, soft youthful pretty face, big warm smile, a small satchel across the chest, boots, delicate not muscular, feminine, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, grim dark fantasy, empty hands, no weapon",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-17T19:27:05.469316+00:00"
+      },
+      "folder": "Rhona_v3",
+      "frames": {
+        "rotations": {
+          "south": "Rhona_v3/rotations/south.png",
+          "south-east": "Rhona_v3/rotations/south-east.png",
+          "east": "Rhona_v3/rotations/east.png",
+          "north-east": "Rhona_v3/rotations/north-east.png",
+          "north": "Rhona_v3/rotations/north.png",
+          "north-west": "Rhona_v3/rotations/north-west.png",
+          "west": "Rhona_v3/rotations/west.png",
+          "south-west": "Rhona_v3/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-17T19:33:15.460516"
+}

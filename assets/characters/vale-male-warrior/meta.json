@@ -1,0 +1,201 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "5385ca03-0173-41c0-9d64-f76ad3e25093",
+        "name": "handsome man with black hair cropped at the sides, strong-jawed face clearly visible, form-fitting polished breastplate, no helm, heroic proud stance, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "handsome man with black hair cropped at the sides, strong-jawed face clearly visible, form-fitting polished breastplate, no helm, heroic proud stance, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T06:30:06.091292+00:00"
+      },
+      "folder": "handsome_man_with_black_hair_cropped_at_the_sides",
+      "frames": {
+        "rotations": {
+          "south": "handsome_man_with_black_hair_cropped_at_the_sides/rotations/south.png",
+          "south-east": "handsome_man_with_black_hair_cropped_at_the_sides/rotations/south-east.png",
+          "east": "handsome_man_with_black_hair_cropped_at_the_sides/rotations/east.png",
+          "north-east": "handsome_man_with_black_hair_cropped_at_the_sides/rotations/north-east.png",
+          "north": "handsome_man_with_black_hair_cropped_at_the_sides/rotations/north.png",
+          "north-west": "handsome_man_with_black_hair_cropped_at_the_sides/rotations/north-west.png",
+          "west": "handsome_man_with_black_hair_cropped_at_the_sides/rotations/west.png",
+          "south-west": "handsome_man_with_black_hair_cropped_at_the_sides/rotations/south-west.png"
+        },
+        "animations": {
+          "attack": {
+            "west": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/west/frame_008.png"
+            ],
+            "east": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/east/frame_008.png"
+            ],
+            "north": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/north/frame_008.png"
+            ],
+            "south": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/attack/south/frame_008.png"
+            ]
+          },
+          "battle-stance": {
+            "west": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/west/frame_008.png"
+            ],
+            "south": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/south/frame_008.png"
+            ],
+            "east": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/east/frame_008.png"
+            ],
+            "north": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/battle-stance/north/frame_008.png"
+            ]
+          },
+          "walk": {
+            "east": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/east/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/east/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/east/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/east/frame_003.png"
+            ],
+            "west": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/west/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/west/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/west/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/west/frame_003.png"
+            ],
+            "north": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/north/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/north/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/north/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/north/frame_003.png"
+            ],
+            "south": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/south/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/south/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/south/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/walk/south/frame_003.png"
+            ]
+          },
+          "cast": {
+            "north": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/north/frame_008.png"
+            ],
+            "south": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/south/frame_008.png"
+            ],
+            "west": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/west/frame_008.png"
+            ],
+            "east": [
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_000.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_001.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_002.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_003.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_004.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_005.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_006.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_007.png",
+              "handsome_man_with_black_hair_cropped_at_the_sides/animations/cast/east/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T07:02:28.720506"
+}

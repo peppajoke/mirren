@@ -1,0 +1,203 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "4922365f-e2e2-40f3-bb4f-efcbd8e0b98b",
+        "name": "aging washed-up CABARET SHOWMAN in a grim 1920s-30s dark-fantasy world, David Bowie gone to seed: tall, thin, gaunt angular cheekbones, shaggy swept-back hair with a faded dye streak grown out grey, heavy-lidded mismatched eyes with dark circles; LONG WORN VELVET TAILCOAT with faded gold embroidery and tarnished brass spangles, frayed ruffled cravat at the throat, patched brocade waistcoat, high-waisted dark trousers with braces, scuffed knee-high boots, battered lute slung across his BACK; strictly period 1920s-30s dark-fantasy wardrobe \u2014 NO modern clothing, no blazer, no jeans, no t-shirt, no sneakers; faded-glory stage swagger gone wilted, colors drained toward ash, GBA-era 16-bit pixel art, dark outline, muted dusk palette, one tarnished brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "aging washed-up CABARET SHOWMAN in a grim 1920s-30s dark-fantasy world, David Bowie gone to seed: tall, thin, gaunt angular cheekbones, shaggy swept-back hair with a faded dye streak grown out grey, heavy-lidded mismatched eyes with dark circles; LONG WORN VELVET TAILCOAT with faded gold embroidery and tarnished brass spangles, frayed ruffled cravat at the throat, patched brocade waistcoat, high-waisted dark trousers with braces, scuffed knee-high boots, battered lute slung across his BACK; strictly period 1920s-30s dark-fantasy wardrobe \u2014 NO modern clothing, no blazer, no jeans, no t-shirt, no sneakers; faded-glory stage swagger gone wilted, colors drained toward ash, GBA-era 16-bit pixel art, dark outline, muted dusk palette, one tarnished brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T04:54:32.832066+00:00"
+      },
+      "folder": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30",
+      "frames": {
+        "rotations": {
+          "south": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/rotations/south.png",
+          "south-east": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/rotations/south-east.png",
+          "east": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/rotations/east.png",
+          "north-east": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/rotations/north-east.png",
+          "north": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/rotations/north.png",
+          "north-west": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/rotations/north-west.png",
+          "west": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/rotations/west.png",
+          "south-west": "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/rotations/south-west.png"
+        },
+        "animations": {
+          "attack": {
+            "east": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/east/frame_008.png"
+            ],
+            "west": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/west/frame_008.png"
+            ],
+            "south": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/south/frame_008.png"
+            ],
+            "north": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/attack/north/frame_008.png"
+            ]
+          },
+          "cast": {
+            "south": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/south/frame_008.png"
+            ],
+            "north": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/north/frame_008.png"
+            ],
+            "east": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/east/frame_008.png"
+            ],
+            "west": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/cast/west/frame_008.png"
+            ]
+          },
+          "walk": {
+            "south": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/south/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/south/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/south/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/south/frame_003.png"
+            ],
+            "west": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/west/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/west/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/west/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/west/frame_003.png"
+            ],
+            "east": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/east/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/east/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/east/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/east/frame_003.png"
+            ],
+            "north": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/north/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/north/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/north/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/walk/north/frame_003.png"
+            ]
+          },
+          "battle-stance": {
+            "west": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/west/frame_008.png"
+            ],
+            "east": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/east/frame_008.png"
+            ],
+            "north": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance/north/frame_008.png"
+            ]
+          },
+          "battle-stance-f97e67b2": {
+            "south": [
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_000.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_001.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_002.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_003.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_004.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_005.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_006.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_007.png",
+              "aging_washed-up_CABARET_SHOWMAN_in_a_grim_1920s-30/animations/battle-stance-f97e67b2/south/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T05:52:16.877589"
+}

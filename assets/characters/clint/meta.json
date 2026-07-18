@@ -1,0 +1,236 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "7d5ccf1f-757d-4a26-899c-da5fdef46133",
+        "name": "clint v4-0",
+        "prompt": "a young teenage boy WIZARD, scruffy dark hair under a small worn pointed wizard hood, eager mischievous grin, a young mage's layered robe with arcane trim, faint destructive-magic sparks at his fingertips, a reckless kid who loves blowing things up, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T02:34:30.666365+00:00"
+      },
+      "folder": "clint_v4-0",
+      "frames": {
+        "rotations": {
+          "south": "clint_v4-0/rotations/south.png",
+          "south-east": "clint_v4-0/rotations/south-east.png",
+          "east": "clint_v4-0/rotations/east.png",
+          "north-east": "clint_v4-0/rotations/north-east.png",
+          "north": "clint_v4-0/rotations/north.png",
+          "north-west": "clint_v4-0/rotations/north-west.png",
+          "west": "clint_v4-0/rotations/west.png",
+          "south-west": "clint_v4-0/rotations/south-west.png"
+        },
+        "animations": {
+          "cast": {
+            "east": [
+              "clint_v4-0/animations/cast/east/frame_000.png",
+              "clint_v4-0/animations/cast/east/frame_001.png",
+              "clint_v4-0/animations/cast/east/frame_002.png",
+              "clint_v4-0/animations/cast/east/frame_003.png",
+              "clint_v4-0/animations/cast/east/frame_004.png",
+              "clint_v4-0/animations/cast/east/frame_005.png",
+              "clint_v4-0/animations/cast/east/frame_006.png",
+              "clint_v4-0/animations/cast/east/frame_007.png",
+              "clint_v4-0/animations/cast/east/frame_008.png"
+            ],
+            "south": [
+              "clint_v4-0/animations/cast/south/frame_000.png",
+              "clint_v4-0/animations/cast/south/frame_001.png",
+              "clint_v4-0/animations/cast/south/frame_002.png",
+              "clint_v4-0/animations/cast/south/frame_003.png",
+              "clint_v4-0/animations/cast/south/frame_004.png",
+              "clint_v4-0/animations/cast/south/frame_005.png",
+              "clint_v4-0/animations/cast/south/frame_006.png",
+              "clint_v4-0/animations/cast/south/frame_007.png",
+              "clint_v4-0/animations/cast/south/frame_008.png"
+            ],
+            "north": [
+              "clint_v4-0/animations/cast/north/frame_000.png",
+              "clint_v4-0/animations/cast/north/frame_001.png",
+              "clint_v4-0/animations/cast/north/frame_002.png",
+              "clint_v4-0/animations/cast/north/frame_003.png",
+              "clint_v4-0/animations/cast/north/frame_004.png",
+              "clint_v4-0/animations/cast/north/frame_005.png",
+              "clint_v4-0/animations/cast/north/frame_006.png",
+              "clint_v4-0/animations/cast/north/frame_007.png",
+              "clint_v4-0/animations/cast/north/frame_008.png"
+            ],
+            "west": [
+              "clint_v4-0/animations/cast/west/frame_000.png",
+              "clint_v4-0/animations/cast/west/frame_001.png",
+              "clint_v4-0/animations/cast/west/frame_002.png",
+              "clint_v4-0/animations/cast/west/frame_003.png",
+              "clint_v4-0/animations/cast/west/frame_004.png",
+              "clint_v4-0/animations/cast/west/frame_005.png",
+              "clint_v4-0/animations/cast/west/frame_006.png",
+              "clint_v4-0/animations/cast/west/frame_007.png",
+              "clint_v4-0/animations/cast/west/frame_008.png"
+            ]
+          },
+          "battle-stance": {
+            "north": [
+              "clint_v4-0/animations/battle-stance/north/frame_000.png",
+              "clint_v4-0/animations/battle-stance/north/frame_001.png",
+              "clint_v4-0/animations/battle-stance/north/frame_002.png",
+              "clint_v4-0/animations/battle-stance/north/frame_003.png",
+              "clint_v4-0/animations/battle-stance/north/frame_004.png",
+              "clint_v4-0/animations/battle-stance/north/frame_005.png",
+              "clint_v4-0/animations/battle-stance/north/frame_006.png",
+              "clint_v4-0/animations/battle-stance/north/frame_007.png",
+              "clint_v4-0/animations/battle-stance/north/frame_008.png"
+            ],
+            "south": [
+              "clint_v4-0/animations/battle-stance/south/frame_000.png",
+              "clint_v4-0/animations/battle-stance/south/frame_001.png",
+              "clint_v4-0/animations/battle-stance/south/frame_002.png",
+              "clint_v4-0/animations/battle-stance/south/frame_003.png",
+              "clint_v4-0/animations/battle-stance/south/frame_004.png",
+              "clint_v4-0/animations/battle-stance/south/frame_005.png",
+              "clint_v4-0/animations/battle-stance/south/frame_006.png",
+              "clint_v4-0/animations/battle-stance/south/frame_007.png",
+              "clint_v4-0/animations/battle-stance/south/frame_008.png"
+            ],
+            "east": [
+              "clint_v4-0/animations/battle-stance/east/frame_000.png",
+              "clint_v4-0/animations/battle-stance/east/frame_001.png",
+              "clint_v4-0/animations/battle-stance/east/frame_002.png",
+              "clint_v4-0/animations/battle-stance/east/frame_003.png",
+              "clint_v4-0/animations/battle-stance/east/frame_004.png",
+              "clint_v4-0/animations/battle-stance/east/frame_005.png",
+              "clint_v4-0/animations/battle-stance/east/frame_006.png",
+              "clint_v4-0/animations/battle-stance/east/frame_007.png",
+              "clint_v4-0/animations/battle-stance/east/frame_008.png"
+            ]
+          },
+          "attack": {
+            "north": [
+              "clint_v4-0/animations/attack/north/frame_000.png",
+              "clint_v4-0/animations/attack/north/frame_001.png",
+              "clint_v4-0/animations/attack/north/frame_002.png",
+              "clint_v4-0/animations/attack/north/frame_003.png",
+              "clint_v4-0/animations/attack/north/frame_004.png",
+              "clint_v4-0/animations/attack/north/frame_005.png",
+              "clint_v4-0/animations/attack/north/frame_006.png",
+              "clint_v4-0/animations/attack/north/frame_007.png",
+              "clint_v4-0/animations/attack/north/frame_008.png"
+            ],
+            "south": [
+              "clint_v4-0/animations/attack/south/frame_000.png",
+              "clint_v4-0/animations/attack/south/frame_001.png",
+              "clint_v4-0/animations/attack/south/frame_002.png",
+              "clint_v4-0/animations/attack/south/frame_003.png",
+              "clint_v4-0/animations/attack/south/frame_004.png",
+              "clint_v4-0/animations/attack/south/frame_005.png",
+              "clint_v4-0/animations/attack/south/frame_006.png",
+              "clint_v4-0/animations/attack/south/frame_007.png",
+              "clint_v4-0/animations/attack/south/frame_008.png"
+            ],
+            "west": [
+              "clint_v4-0/animations/attack/west/frame_000.png",
+              "clint_v4-0/animations/attack/west/frame_001.png",
+              "clint_v4-0/animations/attack/west/frame_002.png",
+              "clint_v4-0/animations/attack/west/frame_003.png",
+              "clint_v4-0/animations/attack/west/frame_004.png",
+              "clint_v4-0/animations/attack/west/frame_005.png",
+              "clint_v4-0/animations/attack/west/frame_006.png",
+              "clint_v4-0/animations/attack/west/frame_007.png",
+              "clint_v4-0/animations/attack/west/frame_008.png"
+            ],
+            "east": [
+              "clint_v4-0/animations/attack/east/frame_000.png",
+              "clint_v4-0/animations/attack/east/frame_001.png",
+              "clint_v4-0/animations/attack/east/frame_002.png",
+              "clint_v4-0/animations/attack/east/frame_003.png",
+              "clint_v4-0/animations/attack/east/frame_004.png",
+              "clint_v4-0/animations/attack/east/frame_005.png",
+              "clint_v4-0/animations/attack/east/frame_006.png",
+              "clint_v4-0/animations/attack/east/frame_007.png",
+              "clint_v4-0/animations/attack/east/frame_008.png"
+            ]
+          },
+          "battle-stance-76be4da5": {
+            "west": [
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_000.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_001.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_002.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_003.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_004.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_005.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_006.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_007.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/west/frame_008.png"
+            ],
+            "east": [
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_000.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_001.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_002.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_003.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_004.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_005.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_006.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_007.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/east/frame_008.png"
+            ],
+            "south": [
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_000.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_001.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_002.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_003.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_004.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_005.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_006.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_007.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/south/frame_008.png"
+            ],
+            "north": [
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_000.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_001.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_002.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_003.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_004.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_005.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_006.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_007.png",
+              "clint_v4-0/animations/battle-stance-76be4da5/north/frame_008.png"
+            ]
+          },
+          "walk": {
+            "east": [
+              "clint_v4-0/animations/walk/east/frame_000.png",
+              "clint_v4-0/animations/walk/east/frame_001.png",
+              "clint_v4-0/animations/walk/east/frame_002.png",
+              "clint_v4-0/animations/walk/east/frame_003.png"
+            ],
+            "west": [
+              "clint_v4-0/animations/walk/west/frame_000.png",
+              "clint_v4-0/animations/walk/west/frame_001.png",
+              "clint_v4-0/animations/walk/west/frame_002.png",
+              "clint_v4-0/animations/walk/west/frame_003.png"
+            ],
+            "south": [
+              "clint_v4-0/animations/walk/south/frame_000.png",
+              "clint_v4-0/animations/walk/south/frame_001.png",
+              "clint_v4-0/animations/walk/south/frame_002.png",
+              "clint_v4-0/animations/walk/south/frame_003.png"
+            ],
+            "north": [
+              "clint_v4-0/animations/walk/north/frame_000.png",
+              "clint_v4-0/animations/walk/north/frame_001.png",
+              "clint_v4-0/animations/walk/north/frame_002.png",
+              "clint_v4-0/animations/walk/north/frame_003.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T03:54:30.998996"
+}

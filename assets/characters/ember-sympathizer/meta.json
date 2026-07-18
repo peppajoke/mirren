@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "b3d71da3-574f-4dc6-8d2f-13ecc47c344d",
+        "name": "Ember resistance sympathizer, ash-grey worn work clothes with a single burnt-orange cloth armband, quiet steady bearing, 1920s-30s laborer cut, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "Ember resistance sympathizer, ash-grey worn work clothes with a single burnt-orange cloth armband, quiet steady bearing, 1920s-30s laborer cut, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T07:02:29.751923+00:00"
+      },
+      "folder": "Ember_resistance_sympathizer_ash-grey_worn_work_cl",
+      "frames": {
+        "rotations": {
+          "south": "Ember_resistance_sympathizer_ash-grey_worn_work_cl/rotations/south.png",
+          "south-east": "Ember_resistance_sympathizer_ash-grey_worn_work_cl/rotations/south-east.png",
+          "east": "Ember_resistance_sympathizer_ash-grey_worn_work_cl/rotations/east.png",
+          "north-east": "Ember_resistance_sympathizer_ash-grey_worn_work_cl/rotations/north-east.png",
+          "north": "Ember_resistance_sympathizer_ash-grey_worn_work_cl/rotations/north.png",
+          "north-west": "Ember_resistance_sympathizer_ash-grey_worn_work_cl/rotations/north-west.png",
+          "west": "Ember_resistance_sympathizer_ash-grey_worn_work_cl/rotations/west.png",
+          "south-west": "Ember_resistance_sympathizer_ash-grey_worn_work_cl/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T07:04:19.586517"
+}

@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "9034b0b9-e0ca-459b-be1a-4dc815b609c3",
+        "name": "Versi dog quad 0",
+        "prompt": "a black and white border collie dog, a COMPLETELY BLACK HEAD and ears, white chest and legs, black body patches, ONLY pure black and white fur (no tan, no brown), long soft fur, loyal companion, GBA-era 16-bit pixel art, dark outline, muted dusk palette, grim dark fantasy",
+        "size": {
+          "width": 56,
+          "height": 56
+        },
+        "template_id": "dog",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T02:40:07.80034+00:00"
+      },
+      "folder": "Versi_dog_quad_0",
+      "frames": {
+        "rotations": {
+          "south": "Versi_dog_quad_0/rotations/south.png",
+          "south-east": "Versi_dog_quad_0/rotations/south-east.png",
+          "east": "Versi_dog_quad_0/rotations/east.png",
+          "north-east": "Versi_dog_quad_0/rotations/north-east.png",
+          "north": "Versi_dog_quad_0/rotations/north.png",
+          "north-west": "Versi_dog_quad_0/rotations/north-west.png",
+          "west": "Versi_dog_quad_0/rotations/west.png",
+          "south-west": "Versi_dog_quad_0/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T02:41:41.314200"
+}

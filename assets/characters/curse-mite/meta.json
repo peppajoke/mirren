@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "ac0ac8f1-498a-44ef-9577-5c5f8f3674e7",
+        "name": "Curse Mite",
+        "prompt": "a small corrupted quadruped vermin creature, pale sickly grey flesh, hunched and scuttling, faint pale glowing cracks, too many small eyes, unsettling and wrong, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, grim dark fantasy",
+        "size": {
+          "width": 72,
+          "height": 72
+        },
+        "template_id": "cat",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-17T19:17:19.253662+00:00"
+      },
+      "folder": "Curse_Mite",
+      "frames": {
+        "rotations": {
+          "south": "Curse_Mite/rotations/south.png",
+          "south-east": "Curse_Mite/rotations/south-east.png",
+          "east": "Curse_Mite/rotations/east.png",
+          "north-east": "Curse_Mite/rotations/north-east.png",
+          "north": "Curse_Mite/rotations/north.png",
+          "north-west": "Curse_Mite/rotations/north-west.png",
+          "west": "Curse_Mite/rotations/west.png",
+          "south-west": "Curse_Mite/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-17T19:21:50.279638"
+}

@@ -1,0 +1,201 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "96be7e58-be80-4638-9a75-e374fb3c936e",
+        "name": "female warrior in battered plate with an OPEN-FACED helm (no visor), a braid falling out the back of the helm, feminine build; the face inside is clearly visible: natural skin, jaw and mouth readable, face PARTIALLY visible with natural skin tone, NOT hidden in black shadow, eyes with a faint gold glow, dented pauldrons, chipped shield strapped on her BACK, GBA-era 16-bit pixel art, dark outline, muted dusk palette, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "female warrior in battered plate with an OPEN-FACED helm (no visor), a braid falling out the back of the helm, feminine build; the face inside is clearly visible: natural skin, jaw and mouth readable, face PARTIALLY visible with natural skin tone, NOT hidden in black shadow, eyes with a faint gold glow, dented pauldrons, chipped shield strapped on her BACK, GBA-era 16-bit pixel art, dark outline, muted dusk palette, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T04:48:11.363783+00:00"
+      },
+      "folder": "female_warrior_in_battered_plate_with_an_OPEN-FACE",
+      "frames": {
+        "rotations": {
+          "south": "female_warrior_in_battered_plate_with_an_OPEN-FACE/rotations/south.png",
+          "south-east": "female_warrior_in_battered_plate_with_an_OPEN-FACE/rotations/south-east.png",
+          "east": "female_warrior_in_battered_plate_with_an_OPEN-FACE/rotations/east.png",
+          "north-east": "female_warrior_in_battered_plate_with_an_OPEN-FACE/rotations/north-east.png",
+          "north": "female_warrior_in_battered_plate_with_an_OPEN-FACE/rotations/north.png",
+          "north-west": "female_warrior_in_battered_plate_with_an_OPEN-FACE/rotations/north-west.png",
+          "west": "female_warrior_in_battered_plate_with_an_OPEN-FACE/rotations/west.png",
+          "south-west": "female_warrior_in_battered_plate_with_an_OPEN-FACE/rotations/south-west.png"
+        },
+        "animations": {
+          "cast": {
+            "west": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/west/frame_008.png"
+            ],
+            "east": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/east/frame_008.png"
+            ],
+            "north": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/north/frame_008.png"
+            ],
+            "south": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/cast/south/frame_008.png"
+            ]
+          },
+          "battle-stance": {
+            "south": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/south/frame_008.png"
+            ],
+            "west": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/west/frame_008.png"
+            ],
+            "east": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/east/frame_008.png"
+            ],
+            "north": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/battle-stance/north/frame_008.png"
+            ]
+          },
+          "walk": {
+            "west": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/west/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/west/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/west/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/west/frame_003.png"
+            ],
+            "south": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/south/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/south/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/south/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/south/frame_003.png"
+            ],
+            "east": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/east/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/east/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/east/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/east/frame_003.png"
+            ],
+            "north": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/north/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/north/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/north/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/walk/north/frame_003.png"
+            ]
+          },
+          "attack": {
+            "west": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/west/frame_008.png"
+            ],
+            "north": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/north/frame_008.png"
+            ],
+            "south": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/south/frame_008.png"
+            ],
+            "east": [
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_000.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_001.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_002.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_003.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_004.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_005.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_006.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_007.png",
+              "female_warrior_in_battered_plate_with_an_OPEN-FACE/animations/attack/east/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T06:00:58.647177"
+}

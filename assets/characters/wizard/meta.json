@@ -1,0 +1,201 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "e9756dd7-11bc-4aec-a080-0818c629ca11",
+        "name": "male mystic drifter in a deep hooded robe; the hood shades his brow but the face below is clearly visible: natural skin, mouth and chin readable, face PARTIALLY visible with natural skin tone \u2014 NOT hidden in black shadow; eyes with a faint gold glow, drifter coat over the robe, brass belt buckle, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "male mystic drifter in a deep hooded robe; the hood shades his brow but the face below is clearly visible: natural skin, mouth and chin readable, face PARTIALLY visible with natural skin tone \u2014 NOT hidden in black shadow; eyes with a faint gold glow, drifter coat over the robe, brass belt buckle, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T04:33:35.955742+00:00"
+      },
+      "folder": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood",
+      "frames": {
+        "rotations": {
+          "south": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/rotations/south.png",
+          "south-east": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/rotations/south-east.png",
+          "east": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/rotations/east.png",
+          "north-east": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/rotations/north-east.png",
+          "north": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/rotations/north.png",
+          "north-west": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/rotations/north-west.png",
+          "west": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/rotations/west.png",
+          "south-west": "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/rotations/south-west.png"
+        },
+        "animations": {
+          "walk": {
+            "west": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/west/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/west/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/west/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/west/frame_003.png"
+            ],
+            "east": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/east/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/east/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/east/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/east/frame_003.png"
+            ],
+            "south": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/south/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/south/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/south/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/south/frame_003.png"
+            ],
+            "north": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/north/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/north/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/north/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/walk/north/frame_003.png"
+            ]
+          },
+          "battle-stance": {
+            "north": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/north/frame_008.png"
+            ],
+            "west": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/west/frame_008.png"
+            ],
+            "east": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/east/frame_008.png"
+            ],
+            "south": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/battle-stance/south/frame_008.png"
+            ]
+          },
+          "cast": {
+            "north": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/north/frame_008.png"
+            ],
+            "east": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/east/frame_008.png"
+            ],
+            "west": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/west/frame_008.png"
+            ],
+            "south": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/cast/south/frame_008.png"
+            ]
+          },
+          "attack": {
+            "east": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/east/frame_008.png"
+            ],
+            "north": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/north/frame_008.png"
+            ],
+            "west": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/west/frame_008.png"
+            ],
+            "south": [
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_000.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_001.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_002.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_003.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_004.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_005.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_006.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_007.png",
+              "male_mystic_drifter_in_a_deep_hooded_robe_the_hood/animations/attack/south/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T05:40:09.992376"
+}

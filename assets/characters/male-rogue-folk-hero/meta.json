@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "426ad737-f22a-47f3-a425-04e68c8690cf",
+        "name": "male-rogue-ninja",
+        "prompt": "young man, pale face fully visible, GLOWING BRIGHT YELLOW-GOLD EYES like two little lamps of light, luminous golden glowing eyes, a lean agile assassin in fitted dark shadow-garb, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T00:22:00.172098+00:00"
+      },
+      "folder": "male-rogue-ninja",
+      "frames": {
+        "rotations": {
+          "south": "male-rogue-ninja/rotations/south.png",
+          "south-east": "male-rogue-ninja/rotations/south-east.png",
+          "east": "male-rogue-ninja/rotations/east.png",
+          "north-east": "male-rogue-ninja/rotations/north-east.png",
+          "north": "male-rogue-ninja/rotations/north.png",
+          "north-west": "male-rogue-ninja/rotations/north-west.png",
+          "west": "male-rogue-ninja/rotations/west.png",
+          "south-west": "male-rogue-ninja/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T00:24:21.287519"
+}

@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "131ae023-da12-41b7-a67d-b4a06214a9f5",
+        "name": "abstract cosmic deity, immense and sorrowful: overlapping translucent veils of night sky shaped vaguely like a robed figure, constellations drifting through the body, a single dim gold ring where a halo should be, tilted as if grieving, powerful stillness, GBA-era 16-bit pixel art, dark outline, muted dusk palette, grim dark fantasy",
+        "prompt": "abstract cosmic deity, immense and sorrowful: overlapping translucent veils of night sky shaped vaguely like a robed figure, constellations drifting through the body, a single dim gold ring where a halo should be, tilted as if grieving, powerful stillness, GBA-era 16-bit pixel art, dark outline, muted dusk palette, grim dark fantasy",
+        "size": {
+          "width": 112,
+          "height": 112
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T07:21:33.029296+00:00"
+      },
+      "folder": "abstract_cosmic_deity_immense_and_sorrowful_overla",
+      "frames": {
+        "rotations": {
+          "south": "abstract_cosmic_deity_immense_and_sorrowful_overla/rotations/south.png",
+          "south-east": "abstract_cosmic_deity_immense_and_sorrowful_overla/rotations/south-east.png",
+          "east": "abstract_cosmic_deity_immense_and_sorrowful_overla/rotations/east.png",
+          "north-east": "abstract_cosmic_deity_immense_and_sorrowful_overla/rotations/north-east.png",
+          "north": "abstract_cosmic_deity_immense_and_sorrowful_overla/rotations/north.png",
+          "north-west": "abstract_cosmic_deity_immense_and_sorrowful_overla/rotations/north-west.png",
+          "west": "abstract_cosmic_deity_immense_and_sorrowful_overla/rotations/west.png",
+          "south-west": "abstract_cosmic_deity_immense_and_sorrowful_overla/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T07:23:07.225234"
+}

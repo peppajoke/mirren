@@ -1,0 +1,904 @@
+{
+  "characters": {
+    "gloomhound": {
+      "name": "Gloomhound",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": []
+    },
+    "rust-jackal": {
+      "name": "Rust Jackal",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": []
+    },
+    "rogue": {
+      "name": "Rogue",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "south-east",
+            "south-west"
+          ],
+          "frames": 7
+        },
+        "battle-stance": {
+          "dirs": [
+            "south-east",
+            "south-west"
+          ],
+          "frames": 7
+        },
+        "cast": {
+          "dirs": [
+            "south-east",
+            "south-west"
+          ],
+          "frames": 7
+        }
+      }
+    },
+    "warrior": {
+      "name": "Warrior",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "wizard": {
+      "name": "Wizard",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "gate-warden": {
+      "name": "Gate Warden",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "roadside-pilgrim": {
+      "name": "Roadside Pilgrim",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "mara": {
+      "name": "Mara",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "rhona": {
+      "name": "Rhona",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": []
+    },
+    "vesna": {
+      "name": "Vesna",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "kestrel": {
+      "name": "Kestrel",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": []
+    },
+    "curse-mite": {
+      "name": "Curse Mite",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": []
+    },
+    "meero-god": {
+      "name": "Meero (God)",
+      "playable": false,
+      "size": 160,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "ancient": {
+      "name": "Sael (Ancient)",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-magi-holy": {
+      "name": "Male Magi Holy",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-magi-temporal": {
+      "name": "Male Magi Temporal",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-magi-devastation": {
+      "name": "Male Magi Devastation",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-rogue-bard": {
+      "name": "Male Rogue Bard",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-rogue-gunslinger": {
+      "name": "Male Rogue Gunslinger",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-warrior-captain": {
+      "name": "Male Warrior Captain",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-warrior-berzerker": {
+      "name": "Male Warrior Berzerker",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-warrior-soldier": {
+      "name": "Male Warrior Soldier",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "male-rogue-folk-hero": {
+      "name": "Male Rogue Folk Hero",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "female-magi": {
+      "name": "Female Magi",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "female-warrior": {
+      "name": "Female Warrior",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "female-rogue": {
+      "name": "Female Rogue",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "south-east"
+          ],
+          "frames": 7
+        },
+        "battle-stance": {
+          "dirs": [
+            "south-east",
+            "south-west"
+          ],
+          "frames": 7
+        },
+        "cast": {
+          "dirs": [
+            "south-west"
+          ],
+          "frames": 7
+        }
+      }
+    },
+    "clint": {
+      "name": "Clint",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "axel": {
+      "name": "Axel",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "aveline": {
+      "name": "Aveline",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "osai": {
+      "name": "Osai",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "versi": {
+      "name": "Versi (dog)",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "seth": {
+      "name": "Seth",
+      "playable": true,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": []
+    },
+    "kingdom-soldier-a": {
+      "name": "Kingdom Soldier A",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "bandit-boss": {
+      "name": "Bandit Boss",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "cave-spider": {
+      "name": "Cave Spider",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "vale-female-magi": {
+      "name": "Vale Female Magi",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "vale-female-rogue": {
+      "name": "Vale Female Rogue",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "vale-male-magi": {
+      "name": "Vale Male Magi",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "vale-female-warrior": {
+      "name": "Vale Female Warrior",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "vale-male-rogue": {
+      "name": "Vale Male Rogue",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "vale-male-warrior": {
+      "name": "Vale Male Warrior",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 4,
+      "walkDirs": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ],
+      "anims": {
+        "attack": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "battle-stance": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        },
+        "cast": {
+          "dirs": [
+            "east",
+            "north",
+            "south",
+            "west"
+          ],
+          "frames": 9
+        }
+      }
+    },
+    "bandit": {
+      "name": "Bandit",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "townsfolk-a": {
+      "name": "Townsfolk A",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "townsfolk-b": {
+      "name": "Townsfolk B",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "ember-sympathizer": {
+      "name": "Ember Sympathizer",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "meero-a": {
+      "name": "Meero A",
+      "playable": false,
+      "size": 96,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "meero-b": {
+      "name": "Meero B",
+      "playable": false,
+      "size": 96,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "meero-c": {
+      "name": "Meero C",
+      "playable": false,
+      "size": 96,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    },
+    "shopkeep": {
+      "name": "Shopkeep",
+      "playable": false,
+      "size": 64,
+      "walkFrames": 0,
+      "walkDirs": [],
+      "anims": {}
+    }
+  }
+}

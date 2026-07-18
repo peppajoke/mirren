@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "effd09b2-8d2d-455b-9ad2-68c61bc2633f",
+        "name": "Ancient (Corin replacement)",
+        "prompt": "a non-human ancient celestial being, one of the first race the god made before humankind, an eldritch angel: an elegant tall feminine gothic sorceress silhouette fused with a caped dark mage, pale otherworldly grey-violet skin, glowing eyes, long ornate dark braided hair with ritual pins, a high-collared flowing dark cape and layered gothic gown, subtle non-human features (elongated limbs, faint halo of runes), solemn and regal and inhuman, no weapon in hand, empty hands, GBA-era 16-bit pixel art, dark single-color outline, bruise-violet and charcoal palette, cold moonlight, grim dark fantasy",
+        "size": {
+          "width": 76,
+          "height": 76
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-17T20:56:38.313547+00:00"
+      },
+      "folder": "Ancient_Corin_replacement",
+      "frames": {
+        "rotations": {
+          "south": "Ancient_Corin_replacement/rotations/south.png",
+          "south-east": "Ancient_Corin_replacement/rotations/south-east.png",
+          "east": "Ancient_Corin_replacement/rotations/east.png",
+          "north-east": "Ancient_Corin_replacement/rotations/north-east.png",
+          "north": "Ancient_Corin_replacement/rotations/north.png",
+          "north-west": "Ancient_Corin_replacement/rotations/north-west.png",
+          "west": "Ancient_Corin_replacement/rotations/west.png",
+          "south-west": "Ancient_Corin_replacement/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-17T21:04:10.109361"
+}

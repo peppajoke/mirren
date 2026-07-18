@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "d5e54ed9-63dc-463c-a001-82db39e4b8b5",
+        "name": "ordinary village woman, headscarf and patched long skirt, basket-carrier's posture, tired kind face, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "ordinary village woman, headscarf and patched long skirt, basket-carrier's posture, tired kind face, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T07:00:35.057048+00:00"
+      },
+      "folder": "ordinary_village_woman_headscarf_and_patched_long",
+      "frames": {
+        "rotations": {
+          "south": "ordinary_village_woman_headscarf_and_patched_long/rotations/south.png",
+          "south-east": "ordinary_village_woman_headscarf_and_patched_long/rotations/south-east.png",
+          "east": "ordinary_village_woman_headscarf_and_patched_long/rotations/east.png",
+          "north-east": "ordinary_village_woman_headscarf_and_patched_long/rotations/north-east.png",
+          "north": "ordinary_village_woman_headscarf_and_patched_long/rotations/north.png",
+          "north-west": "ordinary_village_woman_headscarf_and_patched_long/rotations/north-west.png",
+          "west": "ordinary_village_woman_headscarf_and_patched_long/rotations/west.png",
+          "south-west": "ordinary_village_woman_headscarf_and_patched_long/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T07:02:24.364473"
+}

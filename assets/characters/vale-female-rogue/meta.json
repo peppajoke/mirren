@@ -1,0 +1,201 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "ba29935c-a731-4f9d-85a4-77f2cbce833a",
+        "name": "beautiful woman with long black hair swept over one shoulder, striking graceful face clearly visible, fitted dark leather bodice with a deep neckline, thief's belts and straps, sly confident bearing, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "prompt": "beautiful woman with long black hair swept over one shoulder, striking graceful face clearly visible, fitted dark leather bodice with a deep neckline, thief's belts and straps, sly confident bearing, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended 1920s-30s era clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-18T06:28:51.63152+00:00"
+      },
+      "folder": "beautiful_woman_with_long_black_hair_swept_over_on",
+      "frames": {
+        "rotations": {
+          "south": "beautiful_woman_with_long_black_hair_swept_over_on/rotations/south.png",
+          "south-east": "beautiful_woman_with_long_black_hair_swept_over_on/rotations/south-east.png",
+          "east": "beautiful_woman_with_long_black_hair_swept_over_on/rotations/east.png",
+          "north-east": "beautiful_woman_with_long_black_hair_swept_over_on/rotations/north-east.png",
+          "north": "beautiful_woman_with_long_black_hair_swept_over_on/rotations/north.png",
+          "north-west": "beautiful_woman_with_long_black_hair_swept_over_on/rotations/north-west.png",
+          "west": "beautiful_woman_with_long_black_hair_swept_over_on/rotations/west.png",
+          "south-west": "beautiful_woman_with_long_black_hair_swept_over_on/rotations/south-west.png"
+        },
+        "animations": {
+          "walk": {
+            "north": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/north/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/north/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/north/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/north/frame_003.png"
+            ],
+            "east": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/east/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/east/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/east/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/east/frame_003.png"
+            ],
+            "west": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/west/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/west/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/west/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/west/frame_003.png"
+            ],
+            "south": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/south/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/south/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/south/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/walk/south/frame_003.png"
+            ]
+          },
+          "cast": {
+            "north": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/north/frame_008.png"
+            ],
+            "west": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/west/frame_008.png"
+            ],
+            "south": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/south/frame_008.png"
+            ],
+            "east": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/cast/east/frame_008.png"
+            ]
+          },
+          "attack": {
+            "north": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/north/frame_008.png"
+            ],
+            "west": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/west/frame_008.png"
+            ],
+            "south": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/south/frame_008.png"
+            ],
+            "east": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/attack/east/frame_008.png"
+            ]
+          },
+          "battle-stance": {
+            "south": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/south/frame_008.png"
+            ],
+            "north": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/north/frame_008.png"
+            ],
+            "west": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/west/frame_008.png"
+            ],
+            "east": [
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_000.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_001.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_002.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_003.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_004.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_005.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_006.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_007.png",
+              "beautiful_woman_with_long_black_hair_swept_over_on/animations/battle-stance/east/frame_008.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-18T08:22:42.469086"
+}

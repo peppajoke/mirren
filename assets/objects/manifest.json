@@ -1,0 +1,72 @@
+{
+  "objects": {
+    "tree-large": {
+      "w": 96,
+      "h": 125
+    },
+    "tree-dead": {
+      "w": 80,
+      "h": 102
+    },
+    "boulder": {
+      "w": 42,
+      "h": 32
+    },
+    "stump": {
+      "w": 31,
+      "h": 37
+    },
+    "bush": {
+      "w": 36,
+      "h": 34
+    },
+    "fallen-log": {
+      "w": 64,
+      "h": 30
+    },
+    "shrine": {
+      "w": 44,
+      "h": 52
+    },
+    "reeds": {
+      "w": 39,
+      "h": 43
+    },
+    "mushrooms": {
+      "w": 28,
+      "h": 30
+    },
+    "tree-grid": {
+      "w": 30,
+      "h": 70
+    },
+    "tree-grid-dead": {
+      "w": 34,
+      "h": 72
+    },
+    "tree": {
+      "w": 44,
+      "h": 74
+    },
+    "bed-double": {
+      "w": 56,
+      "h": 71
+    },
+    "hearth": {
+      "w": 60,
+      "h": 60
+    },
+    "shelf-books": {
+      "w": 35,
+      "h": 52
+    },
+    "table-chairs": {
+      "w": 62,
+      "h": 48
+    },
+    "dog-bed": {
+      "w": 31,
+      "h": 24
+    }
+  }
+}

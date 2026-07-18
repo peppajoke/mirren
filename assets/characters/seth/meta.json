@@ -1,0 +1,36 @@
+{
+  "group_id": null,
+  "states": [
+    {
+      "character": {
+        "id": "84a78bfb-85a6-4c9d-8f1c-ac652256ddf0",
+        "name": "Dast",
+        "prompt": "a weathered gunslinger man, long dusty duster coat, a wide-brim hat, empty holsters and a bandolier across the chest, a stubbled tired face, GBA-era 16-bit pixel art, dark outline, muted dusk palette, fog-lit, one brass-gold accent, worn hand-mended clothing, grim dark fantasy, empty hands, no weapon, nothing in hands",
+        "size": {
+          "width": 68,
+          "height": 68
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-07-17T19:09:44.668951+00:00"
+      },
+      "folder": "Dast",
+      "frames": {
+        "rotations": {
+          "south": "Dast/rotations/south.png",
+          "south-east": "Dast/rotations/south-east.png",
+          "east": "Dast/rotations/east.png",
+          "north-east": "Dast/rotations/north-east.png",
+          "north": "Dast/rotations/north.png",
+          "north-west": "Dast/rotations/north-west.png",
+          "west": "Dast/rotations/west.png",
+          "south-west": "Dast/rotations/south-west.png"
+        },
+        "animations": {}
+      }
+    }
+  ],
+  "export_version": "3.1",
+  "export_date": "2026-07-17T19:11:26.531334"
+}
